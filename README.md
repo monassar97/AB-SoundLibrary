@@ -47,6 +47,6 @@
         targetCompatibility = 1.8  
      }  
      
-9. check tahat the project minSdkVersion is 16
+9. check that the project minSdkVersion is 16
 
 10. Sync project
