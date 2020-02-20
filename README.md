@@ -32,7 +32,7 @@
 4. Let Android Studio build the project.
 5. Open build.gradle (Module:app) file.
 6. Add the following line with your module name in the dependencies block:  
-	implementation project(path: ':soundlibrary')
+	implementation project(path: ':soundlibrary'), path is  Module Name  
 
 
 7. add  
